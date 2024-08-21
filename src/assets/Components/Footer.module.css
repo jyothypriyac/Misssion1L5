@@ -1,0 +1,24 @@
+
+.footerTop{
+    background-color:#9a9b9c;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.footerBottom{
+    background-color: rgb(14, 20, 24);
+    display: flex;
+  justify-content: right;
+  gap: 3%;
+  padding-top: 2%;
+  color: white;
+  text-align: center;
+  padding-bottom: 2%;
+}
+.copyRight{
+  padding-right: 500px;
+}
+h4:hover{
+  background-color:#5e89b4;
+}

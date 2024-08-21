@@ -1,0 +1,35 @@
+
+.topNavOne{
+
+    display: flex;
+    justify-content:right;
+    gap: 20px;
+    padding-right: 10%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-top: 2%;
+   
+}
+.image{
+    width:176px;
+    height: 66px;
+    padding-top: 2%;
+    padding-left: 8%;
+}
+
+
+
+.topNavTwo{
+    display: flex;
+    justify-content: space-around;
+  color: white;
+   padding-top: 5%;
+   padding: 2%;
+    background-color: #0073cf;
+    font-size: 17px;
+
+}
+a:hover{
+    background-color:#9fa1a3;
+}
+

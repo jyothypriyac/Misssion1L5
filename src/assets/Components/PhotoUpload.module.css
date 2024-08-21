@@ -1,0 +1,24 @@
+.insurance{
+    border: 1px solid brown;
+   background-color:#0073cf;
+    padding: 34px;
+    padding-bottom: 36px;
+    text-align: center;
+    
+}
+.prediction{
+    font-weight: bold;
+  min-width: 25%;
+  max-width: 35%;
+  text-align: center;
+  background-color: #9a9b9c;
+  height: 22vh;
+  z-index: 999;
+}
+.popUp{width: 100%;
+  justify-Content: center;
+   display: flex;
+    margin-Top:10%;
+
+
+}
